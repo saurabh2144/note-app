@@ -1,0 +1,56 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+nav{
+    padding: 5px;;
+}
+
+nav a{
+    text-decoration: none;
+    margin-left: 15%;
+    padding: 5px;
+    text-transform: capitalize;
+    
+
+
+}
+header{
+    background-color:aqua;
+    height: 30px;
+    font-style:bold;
+    
+}
+
+#r{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color:violet;
+    margin: 5px;
+    display: inline-block
+    
+
+}
+
+#box2{
+    position: relative;
+    left: 20%;
+}
+
+#box3{
+    position: absolute;
+    right: 5px;
+}
+#container{
+    border: 5px solid ;
+    margin: 5px;
+}

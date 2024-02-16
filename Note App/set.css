@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+#pp{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 28px;
+    font-style: bold;
+    text-decoration: underline;
+    text-decoration-color: black;
+  }
+
+  #box{
+    background-color: violet;
+    text-align: center;
+    height:50px;
+    width: 64px;
+
+    padding: 10px 10px 10px 10px;
+    margin: 5px 10px 15px 20px ;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+  }
+  #box2{
+    background-color:salmon;
+    height:50px;
+    width: 64px;
+
+    padding: 10px 10px 10px 10px;
+    margin: 5px 10px 15px 20px ;
+    border: 8px dashed black;
+
+  }

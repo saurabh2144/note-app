@@ -1,0 +1,43 @@
+#mm{
+    height: 100px;width: 120px;
+    background-image: url(images/Myntra-Logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+main{
+    height: 500px;
+    
+    background-color:yellow;
+}
+#product{
+    background-image: url(images/shopping.webp);
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+    width: 214px;
+    height: 392px;
+    background-color: brown;
+}
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+a{
+    text-decoration:none;
+}
+#kkk{
+    text-decoration: underline;
+    text-decoration-color:black ;
+    text-transform: uppercase;
+
+}
+
+#size{
+    font-size:  22px; 
+    font-style: italic;
+}

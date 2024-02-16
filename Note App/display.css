@@ -1,0 +1,42 @@
+.bb{
+    text-align: center;
+    height: 60px;
+    width: 80px;
+    margin: 10px;
+    padding: 0%;
+   
+    display: inline-block;
+
+
+
+}
+
+#box1{
+    background-color: #dd5656;
+
+}
+#box2{
+    background-color: #672121;
+
+}
+
+*{
+    margin:0%;
+    padding:0%;
+}
+
+#first{
+    background-color:palevioletred;
+    height: 200px;
+    width: 200px;
+    text-align:center;
+
+}
+#second{
+    background-color: aqua;
+    height: 50%; 
+    width: 50%;
+    
+    
+    text-align: center;
+}
